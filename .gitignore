@@ -4,17 +4,16 @@
 *.out
 *.png
 *.jpg
+*.weights
+
+VOCdevkit/
+backup/
 old/
 mnist/
-data/
-caffe/
-grasp/
+#data/
 images/
 opencv/
 convnet/
-decaf/
-submission/
-cfg/
 darknet
 .fuse*
 
